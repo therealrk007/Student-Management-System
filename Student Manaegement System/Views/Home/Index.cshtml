@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/UsingLayout.cshtml";
+}
+
+<h2 class="text-center mt-1"><i class="fa fa-list"></i> ClassRoom List <i class="fa fa-list"> </i></h2>
+<br />
+<hr />
+<div class="mb-2 p-3">
+    <br />
+    @Html.ActionLink("Create ClassRoom", "InsertTBLClassRoom", null, htmlAttributes: new { @class = "btn btn-primary" }) 
+    @Html.Action("printTBLClassRoom")
+</div>
+

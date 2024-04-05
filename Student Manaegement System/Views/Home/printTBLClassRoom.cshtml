@@ -1,0 +1,22 @@
+﻿@using Student_Manaegement_System.Models;
+@model List<TBLClassRoom>
+
+
+@Html.ActionLink("Show All Student", "ShowAllTBLStudent", null, htmlAttributes: new { @class = "btn btn-primary mr-2", @type = "buttton" })
+@Html.ActionLink("OrderByAsc", "OrderByAscId", null, htmlAttributes: new { @class = "btn btn-primary mr-2", @type = "buttton" })
+@Html.ActionLink("OrderByDsc", "OrderByDscId", null, htmlAttributes: new { @class = "btn btn-primary mr-2", @type = "buttton" })
+<hr />
+
+
+@foreach (var item in Model)
+{
+
+    <div>
+        <p>ClassRoom Name : @item.NameCr</p>
+        @Html.ActionLink("Delete ClassRoom", "DeleteTBLClassRoom", new { id = item.IdCr }, htmlAttributes: new { @class = "btn btn-danger mr-2", @type = "buttton" }) &nbsp;&nbsp;
+        @Html.ActionLink("Add Student", "AddTBLStudent", new { id = item.IdCr }, htmlAttributes: new { @class = "btn btn-primary", @type = "buttton" }) &nbsp;&nbsp;
+        @Html.ActionLink("StudentList", "ListTBLSudent", new { id = item.IdCr }, htmlAttributes: new { @class = "btn btn-primary", @type = "buttton" }) &nbsp;&nbsp;
+        <hr />
+    </div>
+
+}

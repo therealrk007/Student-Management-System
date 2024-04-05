@@ -1,0 +1,166 @@
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Student Manaegement System.dll.config
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Student Manaegement System.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Student Manaegement System.pdb
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csc.exe
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csc.exe.config
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csc.rsp
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csi.exe
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csi.exe.config
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csi.rsp
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.AppContext.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Collections.Immutable.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Console.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Globalization.Calendars.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.Compression.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.FileSystem.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Net.Http.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Net.Sockets.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Reflection.Metadata.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.ValueTuple.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.XPath.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\vbc.exe
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\vbc.exe.config
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\vbc.rsp
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\VBCSCompiler.exe
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\VBCSCompiler.exe.config
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Antlr3.Runtime.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.SqlServer.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Microsoft.Web.Infrastructure.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Newtonsoft.Json.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Helpers.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Mvc.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Optimization.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Razor.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Deployment.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Razor.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\WebGrease.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.SqlServer.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Helpers.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Mvc.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Optimization.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Razor.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Deployment.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Razor.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Newtonsoft.Json.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Antlr3.Runtime.pdb
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.csproj.CoreCompileInputs.cache
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.csproj.CopyComplete
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.dll
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.pdb
+E:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.csproj.AssemblyReference.cache
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Student Manaegement System.dll.config
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Student Manaegement System.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Student Manaegement System.pdb
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csc.exe
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csc.exe.config
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csc.rsp
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csi.exe
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csi.exe.config
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\csi.rsp
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.AppContext.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Collections.Immutable.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Console.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Globalization.Calendars.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.Compression.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.FileSystem.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Net.Http.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Net.Sockets.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.ValueTuple.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.XPath.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\vbc.exe
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\vbc.exe.config
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\vbc.rsp
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\VBCSCompiler.exe
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\roslyn\VBCSCompiler.exe.config
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Antlr3.Runtime.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.SqlServer.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Microsoft.Web.Infrastructure.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Newtonsoft.Json.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Helpers.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Mvc.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Optimization.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Razor.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Deployment.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Razor.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\WebGrease.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\EntityFramework.SqlServer.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Helpers.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Mvc.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Optimization.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.Razor.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Deployment.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\System.Web.WebPages.Razor.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Newtonsoft.Json.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Antlr3.Runtime.pdb
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.csproj.AssemblyReference.cache
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.csproj.CoreCompileInputs.cache
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.csproj.CopyComplete
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.dll
+D:\Rutvik\Rutvik\Web Development\Student Manaegement System\Student Manaegement System\obj\Debug\Student Manaegement System.pdb
